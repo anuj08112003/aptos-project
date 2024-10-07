@@ -14,8 +14,7 @@ The File Storage Verifier project aims to create a decentralized platform where 
 ## Contract Address
 
 - **Network**: Aptos Mainnet/Testnet
-- **Contract Address**: `0xde972b1a6feb4efcd60a125ab73bf263865e21512c7bdbb7ddd31da7c1aa7d50` (Replace with the actual contract address once deployed)
-
+- **Contract Address**: `0xde972b1a6feb4efcd60a125ab73bf263865e21512c7bdbb7ddd31da7c1aa7d50` 
 ## How It Works
 
 1. **Upload File Hash**:
