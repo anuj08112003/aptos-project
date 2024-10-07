@@ -1,6 +1,4 @@
-Certainly! Below is the README file for your `FileStorageVerifier` smart contract:
 
----
 
 # File Storage Verifier Smart Contract
 
